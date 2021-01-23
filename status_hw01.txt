@@ -1,0 +1,38 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name? Tanya Kler
+
+
+2. Which VPS & domain providers did you choose? Vultr and NameCheap
+
+
+3. What domain name did you register? tanyaklerwebdev.xyz
+
+
+4. What's the URL of your Github repository for this assignment?
+https://github.com/tanyakler/webdevhw1
+
+
+5. Which parts of this assignment did you have trouble with, if any? 
+
+I thought this assignment was very difficult because I am not familiar
+with any of this stuff apart from basic html and DNS so having no
+office hours and piazza being not that helpful, I had to look up every
+step and had so many issues and roadblocks that were unnecessary. I
+believe that we should have at least gone over some of this in class
+because I'm not here to look things up and learn I'm here to be taught
+how to do this stuff. If I wanted to scour the internet and youtube
+for hours on end only to come across multiple dead ends I wouldn't
+have signed up for this course. I'm very disappointed in a class that
+I was looking forward to learning more in. The main aspects I
+struggled with were setting up the virtual box/linux, the SSH key
+pairs, and hosting the html files to the servers.
+
+
+And here's a list of tasks for grading comments. Just leave this here:
+- Task 1  - Task 2  - Task 3  - Task 4  - Task 5  - Task 6  - Task 7 
+- Task 8  - Task 9
+
+// I wrapped to 70 columns and it messed up the task formatting but I
+// know wrapping to 70 was required so I left it like that
